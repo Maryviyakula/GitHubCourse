@@ -7,7 +7,8 @@ public class LoginPage {
 
 		String user="Admin";
 		String pwd="Admin";
-		System.out.println("User & Password"+user+' '+pwd);
+		System.out.println("User:"+user);
+		System.out.println("Password:"+pwd);
 	}
 
 }
