@@ -9,6 +9,7 @@ public class LoginPage {
 		String pwd="Admin";
 		System.out.println("User:"+user);
 		System.out.println("Password:"+pwd);
+		int i =23;
 	}
 
 }
