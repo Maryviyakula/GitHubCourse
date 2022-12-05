@@ -6,6 +6,8 @@ public class CartPage {
 		
 		System.out.println("CartPage");
 
+		String Name = "Mary";
+		
 	}
 
 }
